@@ -1,6 +1,6 @@
 
 // LCD 1602 RGB
-// makecode LCD1602RGB package for microbit
+// makecode LCD1602RGB extention for microbit
 
 // LCD
 
