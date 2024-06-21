@@ -4,7 +4,7 @@ Start MakeCode for micro:bit  https://makecode.microbit.org/
 
 Create a new project, LCD1602RGB, delete "on start" and "forever"
 
-Enter "JvaScript"
+Enter "JavaScript"
 
 Copy and paste content of LCD1602RGB.txt
 
