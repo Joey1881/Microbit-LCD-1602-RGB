@@ -1,0 +1,13 @@
+{
+    "name": "LCD1602RGB",
+    "version": "1.0.0",
+    "description": "Extention for the Waveshare LCD 1602 RGB Display",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "LCD1602RGB.ts"
+    ],
+    "public": true
+}
