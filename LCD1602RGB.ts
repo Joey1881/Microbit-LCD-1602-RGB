@@ -43,8 +43,8 @@ const LineOffset = [0x00, 0x40];
 
 // Init Color
 const InitRed   =   230
-const InitGreen =   30
-const InitBlue  =   30
+const InitGreen =   40
+const InitBlue  =   40
 
 enum BlinkVal {
     //% block="On"
@@ -329,9 +329,9 @@ namespace LCD1602RGB {
     }
 
     /**
-    *   @param r ist red, eg: 230
-    *   @param g ist green, eg: 30
-    *   @param b ist blue, eg: 30
+    *   @param r is red, eg: 230
+    *   @param g is green, eg: 40
+    *   @param b is blue, eg: 40
     */
     //% block="Red %r Green %g Blue %b" 
     //% weight=100 blockGap=10 
